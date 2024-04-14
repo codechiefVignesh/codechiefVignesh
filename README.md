@@ -15,27 +15,27 @@ Here's a summary of my skills:
 
 ### Programming Languages
 
-- JavaScript: ⚫⚫⚫⚫⚪
-- Python: ⚫⚫⚫⚪⚪
-- Java: ⚫⚫⚪⚪⚪
-- HTML/CSS: ⚫⚫⚪⚪⚪
-- SQL: ⚫⚪⚪⚪⚪
+- JavaScript: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
+- Python: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- Java: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
+- HTML/CSS: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- SQL: ![Skill](https://progress-bar.dev/50/?title=Basic&color=yellow)
 
 ### Frameworks & Libraries
 
-- React.js: ⚫⚫⚫⚪⚪
-- Node.js: ⚫⚫⚪⚪⚪
-- Flask: ⚫⚫⚪⚪⚪
-- Django: ⚫⚪⚪⚪⚪
-- Bootstrap: ⚫⚫⚪⚪⚪
+- React.js: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
+- Node.js: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- Flask: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- Django: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
+- Bootstrap: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
 
 ### Tools & Technologies
 
-- Git: ⚫⚫⚫⚪⚪
-- Docker: ⚫⚫⚪⚪⚪
-- AWS: ⚫⚪⚪⚪⚪
-- Linux: ⚫⚫⚪⚪⚪
-- MongoDB: ⚫⚪⚪⚪⚪
+- Git: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
+- Docker: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- AWS: ![Skill](https://progress-bar.dev/50/?title=Basic&color=yellow)
+- Linux: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
+- MongoDB: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
 
 ## Projects Highlights
 
