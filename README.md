@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 
 
 
-![Vignesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codechiefVignesh&custom_title=chanakya%20Vasantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Vignesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codechiefVignesh&custom_title=Vignesh%20Aravindh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 </div>
