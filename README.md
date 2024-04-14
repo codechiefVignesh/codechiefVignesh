@@ -1,65 +1,77 @@
-# Hello, World! 👋
+# Hi there, I'm Vignesh Aravindh! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession or Interest] passionate about [Your Interests or Focus Areas]. Here you'll find a collection of my projects, experiments, and contributions.
+Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and software developer based in Chennai, India. Here you'll find a showcase of my projects and interests.
 
 ## About Me
 
-- 🌱 I'm currently learning [What you're learning].
-- 💼 I'm working on [Current Projects or Job].
-- 💬 Ask me about [Areas of Expertise or Interest].
-- 📫 How to reach me: [Your Email or Contact Information].
+- 📅 **DOB:** 18/09/2004
+- 📞 **Contact:** +91 7200192134
+- 📧 **Email:** vignesharavindh72@gmail.com
+- [GitHub](https://github.com/YourGitHubUsername)
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+- [Portfolio](https://yourportfolio.com)
 
-## Skill Set
+## Projects
 
-Here's a summary of my skills:
+### Arrow Detection and Classification
+
+- Utilized OpenCV for contour detection and image processing tasks.
+- Implemented a Support Vector Machine (SVM) for initial classification, achieving a testing accuracy of 60%-70%.
+- Improved classification accuracy to over 90% by implementing EfficientNetB3, a CNN-based model using TensorFlow.
+- Integrated developed models into a ROS1 package, showcasing proficiency in ROS.
+- Currently working on bridging the model with ROS2 to ensure compatibility with the latest version of the Robot Operating System.
+
+### Basic Autonomous Navigation Setup in ROS1
+
+- Utilized depth data to precisely map the environment using ROS packages.
+- Fused various sensor data together for localization of the rover.
+- Used EKF (Extended Kalman Filter) to remove noise.
+
+## Skills
 
 ### Programming Languages
 
-- JavaScript: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
-- Python: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
-- Java: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
-- HTML/CSS: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
-- SQL: ![Skill](https://progress-bar.dev/50/?title=Basic&color=yellow)
+- **C++:** ⚫⚫⚫⚫⚪
+- **C:** ⚫⚫⚫⚫⚪
+- **Python:** ⚫⚫⚫⚫⚪
+- **Bash:** ⚫⚫⚫⚪⚪
+- **PHP:** ⚫⚫⚪⚪⚪
+- **JavaScript:** ⚫⚫⚪⚪⚪
 
-### Frameworks & Libraries
+### Web Technologies
 
-- React.js: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
-- Node.js: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
-- Flask: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
-- Django: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
-- Bootstrap: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
+- **HTML:** ⚫⚫⚫⚪⚪
+- **CSS:** ⚫⚫⚫⚪⚪
+- **LaTeX:** ⚫⚫⚪⚪⚪
 
-### Tools & Technologies
+### Tools & Software
 
-- Git: ![Skill](https://progress-bar.dev/80/?title=Advanced&color=yellow)
-- Docker: ![Skill](https://progress-bar.dev/70/?title=Intermediate&color=orange)
-- AWS: ![Skill](https://progress-bar.dev/50/?title=Basic&color=yellow)
-- Linux: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
-- MongoDB: ![Skill](https://progress-bar.dev/60/?title=Intermediate&color=orange)
+- **Visual Studio Code:** ⚫⚫⚫⚫⚪
+- **Anaconda:** ⚫⚫⚫⚪⚪
+- **Text Editors:** ⚫⚫⚫⚪⚪
+- **MS Office:** ⚫⚫⚫⚪⚪
+- **LibreOffice:** ⚫⚫⚫⚪⚪
+- **GSuite:** ⚫⚫⚫⚪⚪
+- **Adobe Acrobat:** ⚫⚫⚪⚪⚪
 
-## Projects Highlights
+### Operating Systems
 
-Here are some projects I'm proud of:
+- **Linux (Ubuntu):** ⚫⚫⚫⚫⚪
+- **Windows:** ⚫⚫⚫⚪⚪
 
-- [Project 1](link): Short description.
-- [Project 2](link): Short description.
-- [Project 3](link): Short description.
+### Robotics
 
-## Recent Blog Posts
+- **ROS1 & 2:** ⚫⚫⚫⚪⚪
 
-I occasionally write about things I'm learning or building. Here are my latest blog posts:
+## Hobbies & Current Learnings
 
-1. [Title of Blog Post 1](link)
-   Description of the blog post.
+- **Hobbies:** Badminton, Drawing, Gaming
+- **Current Learnings:** Mathematical base for Data Analytics, Programming side of Data Science, ROS, Web Development
 
-2. [Title of Blog Post 2](link)
-   Description of the blog post.
+## Achievements
 
-## Connect with Me
+- **MaRS Research Station, IIITDM:** Software Team Member
+  - Contributed to achieving 5th rank globally in Australian Rover Challenge preliminary round (Critical Design Review) and contributed as a part of the software sub-team in the documentation process.
+- **Vashisht, IIITDM:** 3rd place in Bug Hunt Juniors Track in Vashisht Tech Fest
 
-- [Personal Website](Your Website URL)
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Dev.to](Your Dev.to URL)
-
-Feel free to explore my repositories and reach out if you have any questions or just want to chat. I'm always open to collaboration and new opportunities! 😊
+Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities! 😊
