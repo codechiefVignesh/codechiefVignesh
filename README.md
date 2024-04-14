@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 - 📅 **DOB:** 18/09/2004
 - 📞 **Contact:** +91 7200192134
 - 📧 **Email:** vignesharavindh72@gmail.com
-- [GitHub](https://github.com/YourGitHubUsername)
+- [GitHub](https://github.com/codechiefVignesh)
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Portfolio](https://yourportfolio.com)
 - [LeetCode](https://leetcode.com/vignesharavindh_cs22b2004/)
 
 <div align = "center">
