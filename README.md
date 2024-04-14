@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 - [GitHub](https://github.com/YourGitHubUsername)
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
 - [Portfolio](https://yourportfolio.com)
-- [LeetCode Problem Solver](https://leetcode.com/vignesharavindh_cs22b2004/)
+- [LeetCode](https://leetcode.com/vignesharavindh_cs22b2004/)
 
 ## Projects
 
