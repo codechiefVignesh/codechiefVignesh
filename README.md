@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 
 - **C++:** ⚫⚫⚫⚫⚪
 - **C:** ⚫⚫⚫⚫⚪
-- **Python:** ⚫⚫⚫⚫⚪
+- **Python:** ⚫⚫⚫⚫⚫
 - **Bash:** ⚫⚫⚫⚪⚪
 - **PHP:** ⚫⚫⚪⚪⚪
 - **JavaScript:** ⚫⚫⚪⚪⚪
@@ -65,25 +65,23 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 
 - **Visual Studio Code:** ⚫⚫⚫⚫⚪
 - **Anaconda:** ⚫⚫⚫⚪⚪
-- **Text Editors:** ⚫⚫⚫⚪⚪
 - **MS Office:** ⚫⚫⚫⚪⚪
 - **LibreOffice:** ⚫⚫⚫⚪⚪
 - **GSuite:** ⚫⚫⚫⚪⚪
-- **Adobe Acrobat:** ⚫⚫⚪⚪⚪
 
 ### Operating Systems
 
 - **Linux (Ubuntu):** ⚫⚫⚫⚫⚪
-- **Windows:** ⚫⚫⚫⚪⚪
+- **Windows:** ⚫⚫⚫⚫⚪
 
 ### Robotics
 
-- **ROS1 & 2:** ⚫⚫⚫⚪⚪
+- **ROS1 & 2:** ⚫⚫⚫⚫⚪
 
 ## Hobbies & Current Learnings
 
 - **Hobbies:** Badminton, Drawing, Gaming
-- **Current Learnings:** Mathematical base for Data Analytics, Programming side of Data Science, ROS, Web Development
+- **Current Learnings:** Data Analytics, ROS, Full Stack Development
 
 ## Achievements
 
