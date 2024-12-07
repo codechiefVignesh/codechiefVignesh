@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 ## Hobbies & Current Learnings
 
 - **Hobbies:** Badminton, Drawing, Gaming
-- **Current Learnings:** Data Analytics, ROS, Full Stack Development
+- **Current Learnings:** Machine Learning
 
 ## Achievements
 
