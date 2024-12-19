@@ -1,6 +1,6 @@
 # Hi there, I'm Vignesh Aravindh! 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and software developer based in Chennai, India. Here you'll find a showcase of my projects and interests.
+Welcome to my GitHub profile! I'm a passionate data analyst and ML-DL enthusiast and software developer based in Chennai, India. Here you'll find a showcase of my projects and interests.
 
 ## About Me
 
@@ -51,14 +51,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 - **C:** ⚫⚫⚫⚫⚪
 - **Python:** ⚫⚫⚫⚫⚫
 - **Bash:** ⚫⚫⚫⚪⚪
-- **PHP:** ⚫⚫⚪⚪⚪
-- **JavaScript:** ⚫⚫⚪⚪⚪
 
-### Web Technologies
-
-- **HTML:** ⚫⚫⚫⚪⚪
-- **CSS:** ⚫⚫⚫⚪⚪
-- **LaTeX:** ⚫⚫⚪⚪⚪
 
 ### Tools & Software
 
@@ -68,19 +61,13 @@ Welcome to my GitHub profile! I'm a passionate data analyst enthusiast and softw
 - **LibreOffice:** ⚫⚫⚫⚪⚪
 - **GSuite:** ⚫⚫⚫⚪⚪
 
-### Operating Systems
-
-- **Linux (Ubuntu):** ⚫⚫⚫⚫⚪
-- **Windows:** ⚫⚫⚫⚫⚪
-
 ### Robotics
 
 - **ROS1 & 2:** ⚫⚫⚫⚫⚪
 
-## Hobbies & Current Learnings
+## Hobbies
 
 - **Hobbies:** Badminton, Drawing, Gaming
-- **Current Learnings:** Machine Learning
 
 ## Achievements
 
