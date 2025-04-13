@@ -1,7 +1,5 @@
 # Hi there, I'm Vignesh Aravindh! 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst and ML-DL enthusiast and software developer based in Chennai, India. Here you'll find a showcase of my projects and interests.
-
 ## About Me
 
 - 📅 **DOB:** 18/09/2004
