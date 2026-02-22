@@ -2,8 +2,6 @@
 
 ## About Me
 
-- 📅 **DOB:** 18/09/2004
-- 📞 **Contact:** +91 7200192134
 - 📧 **Email:** vignesharavindh72@gmail.com
 - [GitHub](https://github.com/codechiefVignesh)
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
