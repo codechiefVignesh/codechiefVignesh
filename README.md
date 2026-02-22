@@ -11,8 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Passionate software developer who loves building things from scratch
-- 🌱 Currently exploring backend systems, ML, and competitive programming
+- 🎓 Passionate computer science student who loves problem solving and building things
 - ⚡ Fun fact: I debug with `printf`
 
 ---
